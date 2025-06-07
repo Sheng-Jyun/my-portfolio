@@ -11,13 +11,15 @@ Welcome to my personal portfolio website! This site highlights my journey from g
 ## 📁 Project Structure
 
 ```
-├── assets/              # Images, icons, and CSS/JS files
-├── index.html           # Main landing page
-├── about.html           # About section
-├── resume.html          # Detailed resume and skills
-├── projects.html        # CS and Earth Science projects
-├── contact.html         # Contact form and location
-└── README.md
+├── assets/                # Images, icons, CSS, JS, and other static assets
+├── forms/                 # HTML forms or form-related files
+├── index.html             # Main landing (home) page
+├── portfolio-details.html # Detailed view of individual portfolio projects
+├── service-details.html   # Detailed view of services offered
+├── starter-page.html      # Starter or template reference page
+├── README.md              # Project documentation
+├── Readme.txt             # (Legacy) initial placeholder for readme content
+└── .DS_Store              # macOS system file (should be ignored in Git)
 ```
 
 ---
